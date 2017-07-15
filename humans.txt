@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Nikhil Pai -- Everything -- @nikschumi
 
 # THANKS
 
