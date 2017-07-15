@@ -12,3 +12,7 @@ Sample website with plenty of files for demos
 ##How to contribute
 
 ##Deployment
+
+##Copyright Notice 
+
+2017 NIK
