@@ -12,6 +12,7 @@ Sample website with plenty of files for demos
 ##How to contribute
 
 Mor etext
+some more changes form branch
 
 ##Deployment
 Pull Requesr
