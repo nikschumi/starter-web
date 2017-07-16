@@ -18,5 +18,5 @@ some more changes form branch
 Pull Requesr
 
 ##Copyright Notice 
-
+All rights reserved
 2017 NIK
